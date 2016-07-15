@@ -1,5 +1,5 @@
 {
-  "name": "angular2-esnext-starter",
+  "name": "Angular2-NSD-Site",
   "version": "1.0.0",
   "main": "server/index.js",
   "scripts": {
@@ -9,20 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blacksonic/angular2-esnext-starter.git"
+    "url": "http://github.com/nstone101/nsd-esnext.git"
   },
   "author": {
-    "name": "blacksonic",
-    "email": "soos.gabor86@gmail.com"
+    "name": "NickStoneDevelopment",
+    "email": "nstone101@gmail.com"
   },
   "license": "ISC",
   "keywords": [
     "angular2",
     "es6",
     "webpack",
-    "gulp"
+    "gulp",
+    "NSD",
+    "NickStoneDevelopment"
   ],
-  "description": "Angular 2 development in Javascript with ES6/ES7 syntax powered by Babel.",
+  "description": "Angular 2 with Babel Version of NickStoneDevelopment and start of Inkcubation Projects(s)",
   "engines": {
     "node": "4.4.2"
   },
